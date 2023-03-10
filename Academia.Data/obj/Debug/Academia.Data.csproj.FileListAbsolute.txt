@@ -1,0 +1,2 @@
+C:\Users\alexa\Downloads\ExamenFinal\NotasdeAlumnos\Academia.Data\obj\Debug\Academia.Data.csproj.AssemblyReference.cache
+C:\Users\alexa\Downloads\ExamenFinal\NotasdeAlumnos\Academia.Data\obj\Debug\Academia.Data.csproj.CoreCompileInputs.cache
